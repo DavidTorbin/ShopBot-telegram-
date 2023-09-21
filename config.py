@@ -1,0 +1,2 @@
+token = "6366230451:AAEghH2pAk70cT7QO29czHlnLOHGYFGyah4"
+channel_id = '-1001986486517'
